@@ -1,16 +1,28 @@
-### Hi there 👋
+## 🛠️ Technical Skills:
 
-<!--
-**imtiaz0212/imtiaz0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+├── Languages
+│   ├── Php, JavaScript/TypeScript
+├── Front-End
+│   ├── HTML5, CSS3, Bootstrap, ReactJS, SASS, NextJS, ReduxJS, ReduxToolkit, ReactQuery,
+        React Router Dom, TailwindCss
+│   ├── Styled Components & Emotion, MUI and various other component libraries.
+├── Back-End
+│   ├── Codeigniter, Laravel, NodeJS (ExpressJS)
+├── Database
+│   ├── MySQL
+│   ├── MongoDB (Mongoose)
+├── Tools
+│   ├── VS Code
+│   ├── NPM
+│   ├── Yarn
+│   ├── Git
+└──
+```
 
-Here are some ideas to get you started:
+### 🔗 Follow Me:-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/imtiaz-ahammed-23069b179/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-ahammed-23069b179/)
+
+<p style="text-align: center!important;background: #0D1120;padding: 5px;font-weight:bold">Thanks for visiting my profile :heart:</p>
