@@ -1,3 +1,6 @@
+<img src="./imtiaz.jpg" style="width: 100vw;border-radius: 20px" />
+
+
 ## 🛠️ Technical Skills:
 
 ```bash
