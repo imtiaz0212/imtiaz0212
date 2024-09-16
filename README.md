@@ -6,12 +6,11 @@
 ```bash
 ├── Languages
 │   ├── Php, JavaScript
-├── Front-End
-│   ├── HTML5, CSS3, Bootstrap, ReactJS, SASS, NextJS, ReduxJS, ReduxToolkit, ReactQuery,
-        React Router Dom, TailwindCss
-│   ├── Styled Components & Emotion, MUI and various other component libraries.
 ├── Back-End
 │   ├── Codeigniter, Laravel, NodeJS (ExpressJS)
+├── Front-End
+│   ├── HTML5, CSS3, Bootstrap, TailwindCss
+│   ├── Styled Components & Emotion, MUI and various other component libraries.
 ├── Database
 │   ├── MySQL
 │   ├── MongoDB (Mongoose)
