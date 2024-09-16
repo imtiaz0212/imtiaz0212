@@ -5,7 +5,7 @@
 
 ```bash
 ├── Languages
-│   ├── Php, JavaScript/TypeScript
+│   ├── Php, JavaScript
 ├── Front-End
 │   ├── HTML5, CSS3, Bootstrap, ReactJS, SASS, NextJS, ReduxJS, ReduxToolkit, ReactQuery,
         React Router Dom, TailwindCss
