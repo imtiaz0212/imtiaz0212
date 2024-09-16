@@ -10,7 +10,6 @@
 │   ├── Codeigniter, Laravel, NodeJS (ExpressJS)
 ├── Front-End
 │   ├── HTML5, CSS3, Bootstrap, TailwindCss
-│   ├── Styled Components & Emotion, MUI and various other component libraries.
 ├── Database
 │   ├── MySQL
 │   ├── MongoDB (Mongoose)
