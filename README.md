@@ -7,17 +7,18 @@
 ├── Languages
 │   ├── Php, JavaScript
 ├── Back-End
-│   ├── Codeigniter, Laravel, NodeJS (ExpressJS)
+│   ├── Codeigniter, Laravel, ExpressJS
 ├── Front-End
 │   ├── HTML5, CSS3, Bootstrap, TailwindCss
 ├── Database
 │   ├── MySQL
-│   ├── MongoDB (Mongoose)
+│   ├── MongoDB
 ├── Tools
 │   ├── VS Code
 │   ├── NPM
 │   ├── Yarn
 │   ├── Git
+│   ├── CI/CD
 └──
 ```
 
