@@ -1,7 +1,5 @@
 <img src="./imtiaz.jpg" style="width: 100vw;border-radius: 20px" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/imtiaz0212/]
-
 - 📫 How to reach me **imtiaz0212@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f_YG-ZKuBhOzDJidCqXLPZmKMptMU9lZ/view)
